@@ -8,15 +8,22 @@ versionadas.
 
 ## Estado desta leva
 
+- T1, equipe da Lourdes: Sprints 0, 1 e 2 carregadas.
 - T4, equipe da Sophya: Sprints 0, 1 e 2 carregadas.
 - Demais equipes: estrutura preservada para processamento posterior.
-- PDF da devolutiva do T4 gerado a partir da Sprint 2, com historico S0-S2.
+- PDFs das devolutivas do T1 e T4 gerados a partir da Sprint 2, com historico S0-S2.
 - Dashboard e PDF exibem Survey e dimensoes SPACE em todas as sprints; dados
   sem respostas aparecem como `n/d`.
 
 ## Deploy no Streamlit Cloud
 
 Use este repositorio e a branch `main`.
+
+Para o T1:
+
+```text
+teams/t1/app.py
+```
 
 Para o T4:
 
@@ -48,4 +55,5 @@ auditorias de classificacao devem permanecer fora do repositorio.
 
 ## Relatorio PDF
 
+- [T1 - Sprint 2, com historico S0-S2](pdfs/relatorio_T1_sprint_2.pdf)
 - [T4 - Sprint 2, com historico S0-S2](pdfs/relatorio_T4_sprint_2.pdf)
