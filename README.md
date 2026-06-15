@@ -10,8 +10,9 @@ versionadas.
 
 - T1, equipe da Lourdes: Sprints 0, 1 e 2 carregadas.
 - T4, equipe da Sophya: Sprints 0, 1 e 2 carregadas.
-- Demais equipes: estrutura preservada para processamento posterior.
-- PDFs das devolutivas do T1 e T4 gerados a partir da Sprint 2, com historico S0-S2.
+- T2, T3, T5, T6, T7 e T8: Sprints 0, 1 e 2 carregadas.
+- T9: Sprints 1 e 2 carregadas (Sprint 0 sem respostas, exibido como `n/d`).
+- PDFs das devolutivas de todas as equipes (T1-T9) gerados a partir da Sprint 2, com historico S0-S2 (S1-S2 para o T9).
 - Dashboard e PDF exibem Survey e dimensoes SPACE em todas as sprints; dados
   sem respostas aparecem como `n/d`.
 
@@ -56,4 +57,11 @@ auditorias de classificacao devem permanecer fora do repositorio.
 ## Relatorio PDF
 
 - [T1 - Sprint 2, com historico S0-S2](pdfs/relatorio_T1_sprint_2.pdf)
+- [T2 - Sprint 2, com historico S0-S2](pdfs/relatorio_T2_sprint_2.pdf)
+- [T3 - Sprint 2, com historico S0-S2](pdfs/relatorio_T3_sprint_2.pdf)
 - [T4 - Sprint 2, com historico S0-S2](pdfs/relatorio_T4_sprint_2.pdf)
+- [T5 - Sprint 2, com historico S0-S2](pdfs/relatorio_T5_sprint_2.pdf)
+- [T6 - Sprint 2, com historico S0-S2](pdfs/relatorio_T6_sprint_2.pdf)
+- [T7 - Sprint 2, com historico S0-S2](pdfs/relatorio_T7_sprint_2.pdf)
+- [T8 - Sprint 2, com historico S0-S2](pdfs/relatorio_T8_sprint_2.pdf)
+- [T9 - Sprint 2, com historico S1-S2 (Sprint 0 sem respostas)](pdfs/relatorio_T9_sprint_2.pdf)

@@ -12,6 +12,7 @@ Dashboard da equipe T2 no semestre 2026/1, com análise das dimensões SPACE a p
 
 - Sprint 0: Survey Alunos
 - Sprint 1: Survey Alunos
+- Sprint 2: Survey Alunos
 
 ## Deploy
 

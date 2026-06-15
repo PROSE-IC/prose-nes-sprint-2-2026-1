@@ -1,45 +1,39 @@
 # Relato - Sprint 1 - Survey Alunos 1 - T3
 
 - **Equipe**: T3
-- **Respondentes**: 6
+- **Professor(a)**: Funabashi
+- **Período**: Noturno
 - **Participação estimada**: 6/6 (100.0%)
-- **Nota do Survey (0–10)**: 8.31
+- **Nota do Survey (0-10)**: 8.32
 
 ## Temas
-- **Comunicação & Colaboração**: 9.81
-- **Execução, Foco & Fluxo**: 5.83
-- **Motivação, Engajamento & Satisfação**: 8.67
+- **Comunicação & Colaboração**: 8.74
+- **Execução, Foco & Fluxo**: 7.19
+- **Motivação, Engajamento & Satisfação**: 8.38
 - **Performance percebida & Resultado**: 8.75
-- **Proatividade & Reconhecimento**: 6.67
+- **Proatividade & Reconhecimento**: 8.33
 
-## SPACE (Survey)
-
-O modelo SPACE ajuda a olhar produtividade por cinco dimensões:
-- **Satisfaction & Well-being**: satisfação, motivação, bem-estar e tensões percebidas.
-- **Performance**: percepção de entrega, qualidade e resultado do trabalho.
-- **Activity**: atividade registrada no processo, como commits, issues, PRs ou outras evidências de trabalho. Nesta análise de survey, essa dimensão é explicativa e ainda não é calculada como série própria.
-- **Communication & Collaboration**: comunicação, colaboração, transparência e troca de informações.
-- **Efficiency & Flow**: foco, bloqueios, interrupções e fluidez do trabalho.
-
-- **SPACE-W (Satisfaction & Well-being)**: 8.67
+## SPACE
+- **SPACE-W (Satisfaction & Well-Being)**: 8.38
 - **SPACE-P (Performance)**: 8.75
-- **SPACE-C (Communication & Collaboration)**: 8.24
-- **SPACE-E (Efficiency & Flow)**: 7.25
+- **SPACE-C (Communication & Collaboration)**: 8.54
+- **SPACE-E (Efficiency & Flow)**: 7.78
 
-## Top 5 perguntas
+## Pontos Fortes percebidos
+- Leitura: itens com maiores notas normalizadas. Em itens inversos, a pontuação já foi invertida antes da exibição.
 - Dificuldades de comunicação na equipe (item inverso): 10.00
-- 9.1. (Se respondeu "Sim"): Você discutiu essa solução com seu time?: 10.00
-- 5. Durante esta sprint, você conseguiu cumprir todas as tarefas que se comprometeu a realizar? Marque apenas uma opção.: 9.58
+- Discussão da solução com o time: 10.00
 - Conflitos que prejudicaram o fluxo de trabalho (item inverso): 9.58
-- 1. Ao longo desta sprint, como você percebeu a participação dos membros nas discussões da equipe? Marque apenas uma opção.: 9.44
+- Comunicação espontânea: 9.58
+- Comunicação frequente: 9.58
 
-## Bottom 5 perguntas
-- Observação: itens marcados como inversos já foram invertidos; nesses casos, nota menor indica maior presença do problema descrito.
-- 4. Nesta sprint, como você classificaria seu interesse ou motivação para resolver os problemas e realizar as tarefas atribuídas no projeto do NES?: 7.92
-- 18. Essa sprint contribuiu com sua formação enquanto profissional de Engenharia de Software ? Escolha uma alternativa:: 7.92
-- 9. Nesta sprint, você acredita que trouxe alguma solução ou proposta interessante que melhorou o processo de desenvolvimento ou resolveu algum problema específico da equipe?: 6.67
-- 19. Com que frequência você conseguiu manter o foco nas tarefas sem interrupções durante esta sprint? Escolha uma alternativa:: 6.67
-- 20. Com que frequência você foi atribuído a tarefas não planejadas que desviaram seu foco durante esta sprint? Escolha uma alternativa:: 2.92
+## Pontos de Atenção para conversa
+- Leitura: itens com menores notas normalizadas. Em itens inversos, a nota já foi invertida; se aparecer aqui, indica maior presença do problema descrito.
+- Interesse ou motivação para resolver problemas: 5.00
+- Proposta ou solução interessante: 6.67
+- Foco nas tarefas sem interrupções: 6.67
+- Comunicação conduzida por intermediários (item inverso): 6.67
+- Tarefas não planejadas desviando foco (item inverso): 7.08
 
 ## Sugestões de melhoria
-- Proteger foco (limitar não planejadas), explicitar handoffs e criar janelas diárias de apoio.
+- Nenhum alerta crítico; usar os dados como apoio para conversa e acompanhamento da próxima sprint.
